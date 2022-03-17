@@ -4,8 +4,6 @@
 
 This repo is updated to Angular 13:
 
-This master branch contains the *final version of the course code*, that you can use as a reference if you choose to code along. 
-
 # Installation pre-requisites
 
 IMPORTANT: Please use Node 16 LST (Long Term Support version).
