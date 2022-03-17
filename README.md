@@ -4,12 +4,7 @@
 
 This repo is updated to Angular 13:
 
-![Firebase & AngularFire In Depth](https://angular-university.s3-us-west-1.amazonaws.com/course-images/firebase-course-1.jpg)
-
-
 This master branch contains the *final version of the course code*, that you can use as a reference if you choose to code along. 
-
-
 
 # Installation pre-requisites
 
@@ -25,7 +20,7 @@ With the following command the angular-cli will be installed globally in your ma
 
 We can install the master branch using the following commands:
 
-    git clone https://github.com/angular-university/firebase-course.git
+    git clone https://github.com/HariSankarNayak/angular-firebase-play
 
     cd firebase-course
     npm ci
